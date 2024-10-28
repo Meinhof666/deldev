@@ -1,0 +1,21 @@
+.section__info {
+    background-color: #ffffff;
+    margin: 1rem 0;
+    border-radius: 6px;
+}
+
+.section__info__title h1 {
+    font: 500 34px sans-serif;
+    text-align: center;
+    color: #000000b8;
+}
+
+.section__info__content {
+    padding: 8rem 0;
+}
+
+.section__info__content h1 {
+    font: 500 30px sans-serif;
+    text-align: center;
+    color: #000000b8;
+}
